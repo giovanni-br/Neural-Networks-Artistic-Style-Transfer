@@ -34,9 +34,9 @@ This project uses **Convolutional Neural Networks (CNNs)**(VGG architecture) to 
 
 ## Contributors
 
-Giovanni Benedetti da Rosa(me)
-Paulo Roberto de Moura Júnior
-Juan Esteban Rios Gallego
-Cristian Alejandro Chávez Becerra
+- **Giovanni Benedetti da Rosa(me)**
+- Paulo Roberto de Moura Júnior
+- Juan Esteban Rios Gallego
+- Cristian Alejandro Chávez Becerra
 
 [Original repo](https://github.com/AlejandroUN/Neural-Style-Transfer-project-IMA206)
